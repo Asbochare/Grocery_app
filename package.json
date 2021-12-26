@@ -1,0 +1,14 @@
+{
+  "name": "grocery_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.0"
+  }
+}
